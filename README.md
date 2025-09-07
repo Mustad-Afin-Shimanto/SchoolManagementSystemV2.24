@@ -1,1 +1,0 @@
-# SchoolManagementSystemV2.24
